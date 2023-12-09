@@ -1,1 +1,4 @@
 SQL-bxbzncbcnxmbcx
+SQL-structure query language
+CRUD operation
+
