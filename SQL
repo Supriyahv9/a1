@@ -1,4 +1,6 @@
-SQL-bxbzncbcnxmbcx
 SQL-structure query language
 CRUD operation
-
+C-Create
+R-Read
+U-Update
+D-Delete
